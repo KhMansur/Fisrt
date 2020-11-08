@@ -1,0 +1,21 @@
+.card {
+    display: flex;
+    margin: 0;
+    justify-content: space-around;
+}
+
+.card {
+    color: #111;
+    background-color: #e1e1e1;
+    font-size: 20px;
+}
+
+.card:hover {
+    background-color: #fdd000;
+    color: #fff;
+}
+
+.btn:hover {
+    background-color: #fdd000;
+    border-color: #fdd000;
+}
